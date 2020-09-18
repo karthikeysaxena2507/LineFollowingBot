@@ -1,4 +1,4 @@
-# LINE-FOLLOING-BOT
+# LINE-FOLLOWING-BOT
 The bot follows a black line on a plane white background. The working of the bot, principles used and equipments required have been discussed below.
 
  <h3>Equipments Required</h3>
